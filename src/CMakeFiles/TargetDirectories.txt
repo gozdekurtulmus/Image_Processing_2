@@ -1,0 +1,8 @@
+/home/gozde/Desktop/libceng391/src/CMakeFiles/rebuild_cache.dir
+/home/gozde/Desktop/libceng391/src/CMakeFiles/edit_cache.dir
+/home/gozde/Desktop/libceng391/src/src/CMakeFiles/rebuild_cache.dir
+/home/gozde/Desktop/libceng391/src/src/CMakeFiles/edit_cache.dir
+/home/gozde/Desktop/libceng391/src/src/CMakeFiles/ceng391.dir
+/home/gozde/Desktop/libceng391/src/app/CMakeFiles/rebuild_cache.dir
+/home/gozde/Desktop/libceng391/src/app/CMakeFiles/edit_cache.dir
+/home/gozde/Desktop/libceng391/src/app/CMakeFiles/image-test.dir

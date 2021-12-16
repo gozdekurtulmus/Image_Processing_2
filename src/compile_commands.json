@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/gozde/Desktop/libceng391/src/src",
+  "command": "/usr/bin/c++   -I/home/gozde/Desktop/libceng391/src/../include    -Wall -Wextra -std=c++17 -o CMakeFiles/ceng391.dir/image.cpp.o -c /home/gozde/Desktop/libceng391/src/image.cpp",
+  "file": "/home/gozde/Desktop/libceng391/src/image.cpp"
+},
+{
+  "directory": "/home/gozde/Desktop/libceng391/src/app",
+  "command": "/usr/bin/c++   -I/home/gozde/Desktop/libceng391/src/../include    -Wall -Wextra -std=c++17 -o CMakeFiles/image-test.dir/image_test.cpp.o -c /home/gozde/Desktop/libceng391/app/image_test.cpp",
+  "file": "/home/gozde/Desktop/libceng391/app/image_test.cpp"
+}
+]
